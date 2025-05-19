@@ -1,0 +1,38 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: gray;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    margin: 0;
+    font-size: 20px;
+    border: 1px solid #000;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.row {
+    gap: 200px;
+}
+
+form {
+    margin-top: 200px;
+    padding: 30px;
+}
+
+.space {
+    height: 20px;
+}
+
+.desc {
+    font-style: italic;
+}
+
+.pergunta {
+    font-size: 20px;
+}
+
